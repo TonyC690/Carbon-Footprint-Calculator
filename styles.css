@@ -1,0 +1,17 @@
+p{
+    font-size:30px;
+    color:#0B403D;
+}
+
+h1{
+    font-size:50px;
+    font-family: 'Oswald', sans-serif;
+}
+
+body{
+background-image:url("https://certikit.com/wp-content/uploads/2019/10/Image-1.png");
+    background-repeat:no-repeat;
+      background-attachment: fixed;
+     background-size: cover;
+    text-align:center;
+}
